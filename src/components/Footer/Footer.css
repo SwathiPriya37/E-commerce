@@ -1,9 +1,10 @@
 .footer{
     display: flex;
     flex-direction: column;
-    justify-self: center;
+    justify-content: center;
     align-items: center;
     gap: 50px;
+
 }
 .footer-logo{
     display: flex;
@@ -25,16 +26,19 @@
 .footer-links li{
     cursor: pointer;
 }
-.footer-socila-icon{
+.footer-social-icon{
     display: flex;
     gap: 20px;
+
 }
-.footer-icons-container{
+
+.footer-icon-container{
     padding: 10px;
     padding-bottom: 6px;
     background: #fbfbfb;
     border: 1px solid #ebebeb;
 }
+
 .footer-copyright{
     display: flex;
     flex-direction: column;
@@ -42,9 +46,10 @@
     gap: 30px;
     width: 100%;
     margin-bottom: 30px;
-    color: 1a1a1a;
+    color: #1a1a1a;
     font-size: 20px;
 }
+
 .footer-copyright hr{
     width: 80%;
     border: none;
