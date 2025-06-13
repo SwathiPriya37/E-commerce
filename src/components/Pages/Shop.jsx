@@ -15,7 +15,6 @@ const Shop = () => {
       <Offers/>
       <NewCollection/>
       <NewsLetter/>
-      <Footer/>
     </div>
   )
 }
