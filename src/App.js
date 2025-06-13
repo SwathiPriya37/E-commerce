@@ -5,7 +5,7 @@ import Shop from './components/Pages/Shop';
 import ShopCategory from './components/Pages/ShopCategory';
 import LoginSignup from './components/Pages/LoginSignup';
 import Cart from './components/Pages/Cart';
-import Product from './components/Pages/Product'; // ✅ FIXED
+import Product from './components/Pages/Product'; 
 
 function App() {
   return (
