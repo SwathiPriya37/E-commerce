@@ -1,6 +1,6 @@
 # E-Commerce Website (ReactJS)
 
-This is a fully functional **E-Commerce Website** built using **React.js**. It features a dynamic user interface, routing between pages, and a shopping cart system managed using **Context API**.
+This is a fully functional **E-Commerce Website** built using **React.js**. It features a dynamic user interface, routing between pages, and a shopping cart system.
 
 ## 📌 Features
 
