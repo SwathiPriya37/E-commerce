@@ -1,3 +1,78 @@
+# E-Commerce Website (ReactJS)
+
+This is a fully functional **E-Commerce Website** built using **React.js**. It features a dynamic user interface, routing between pages, and a shopping cart system managed using **Context API**.
+
+## 📌 Features
+
+- 🏠 Home Page with Banner, Offers, and New Collections
+- 🧥 Category-wise product browsing (Men, Women, Kids)
+- 🔍 Product Details View
+- 🛒 Add to Cart / Remove from Cart
+- 🧾 View Cart with Total Price and Item Count
+- 📩 Newsletter Signup Section
+- ⚙️ Context API for global cart state management
+- 📦 Static assets and images
+- 🎯 Responsive Design
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### 🧰 Prerequisites
+
+Make sure you have **Node.js** and **npm** installed:
+
+```bash
+node -v
+npm -v
+```
+# 📦 Installation
+ 1. Clone the Repository
+
+```bash
+Copy code
+git clone https://github.com/your-username/e_commerce.git
+cd e_commerce
+```
+
+ 2. Install Dependencies
+
+```bash
+Copy code
+npm install
+Start the Development Server
+```
+```bash
+Copy code
+npm start
+```
+Your app will now be running at: http://localhost:3000
+
+# 🛠️ Components Summary
+- Navbar.jsx: Navigation links
+- Hero.jsx: Homepage banner
+- ProductDisplay.jsx: Product image + price + ratings + add to cart
+- Breadcrum.jsx: Shows product navigation path
+- CartItems.jsx: Items in the cart with quantity and remove option
+- NewCollections.jsx: Latest products section
+- Offers.jsx: Promotional section
+- Item.jsx: Reusable product card
+- ShopContext.jsx: Handles all cart logic and state
+
+# 🐛 Known Issues
+- Ensure correct file paths (case-sensitive on Linux/macOS)
+- Static asset paths must match import names exactly
+- Some pages may not refresh correctly without BrowserRouter properly set
+
+# 📧 Contact
+For questions, contact:
+
+Swathi Priya
+📧 rswathipriya3@gmail.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
